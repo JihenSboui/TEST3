@@ -1,0 +1,8 @@
+numpy
+pandas
+opencv-python
+joblib
+scikit-learn
+firebase-admin
+openpyxl
+mediapipe-aarch64
